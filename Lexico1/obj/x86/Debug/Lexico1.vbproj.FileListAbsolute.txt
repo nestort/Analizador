@@ -1,0 +1,32 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Lexico1\bin\Debug\Lexico1.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Lexico1\bin\Debug\Lexico1.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Lexico1\bin\Debug\Lexico1.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Lexico1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Lexico1\obj\x86\Debug\Lexico1.Form1.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Lexico1\obj\x86\Debug\Lexico1.Resources.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Lexico1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Lexico1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Lexico1\obj\x86\Debug\Lexico1.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Lexico1\obj\x86\Debug\Lexico1.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Lexico1\obj\x86\Debug\Lexico1.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Lexico1\Lexico1\obj\x86\Debug\Lexico1.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Lexico1\Lexico1\obj\x86\Debug\Lexico1.xml
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Lexico1\Lexico1\obj\x86\Debug\Lexico1.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Lexico1\Lexico1\bin\Debug\Lexico1.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Lexico1\Lexico1\bin\Debug\Lexico1.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Lexico1\Lexico1\bin\Debug\Lexico1.xml
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Lexico1\Lexico1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Lexico1\Lexico1\obj\x86\Debug\Lexico1.Form1.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Lexico1\Lexico1\obj\x86\Debug\Lexico1.Resources.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Lexico1\Lexico1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Lexico1\Lexico1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Trinidad\Desktop\firebasetemp\Lexico1\Lexico1\obj\x86\Debug\Lexico1.exe
+C:\Users\Trinidad\Desktop\firebasetemp\Lexico1\Lexico1\obj\x86\Debug\Lexico1.xml
+C:\Users\Trinidad\Desktop\firebasetemp\Lexico1\Lexico1\obj\x86\Debug\Lexico1.pdb
+C:\Users\Trinidad\Desktop\firebasetemp\Lexico1\Lexico1\bin\Debug\Lexico1.exe
+C:\Users\Trinidad\Desktop\firebasetemp\Lexico1\Lexico1\bin\Debug\Lexico1.pdb
+C:\Users\Trinidad\Desktop\firebasetemp\Lexico1\Lexico1\bin\Debug\Lexico1.xml
+C:\Users\Trinidad\Desktop\firebasetemp\Lexico1\Lexico1\obj\x86\Debug\Lexico1.Resources.resources
+C:\Users\Trinidad\Desktop\firebasetemp\Lexico1\Lexico1\obj\x86\Debug\Lexico1.vbproj.GenerateResource.Cache
+C:\Users\Trinidad\Desktop\firebasetemp\Lexico1\Lexico1\obj\x86\Debug\Lexico1.IU.resources
+C:\Users\Trinidad\Desktop\firebasetemp\Lexico1\Lexico1\obj\x86\Debug\Lexico1.controlteclado.resources
